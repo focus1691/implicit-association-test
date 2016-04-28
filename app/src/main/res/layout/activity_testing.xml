@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/wait_screen"
+        android:layout_width="@dimen/logo_width"
+        android:layout_height="@dimen/logo_height"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/logo_margin_top"
+        android:layout_marginLeft="@dimen/logo_margin_left"
+        android:layout_marginRight="@dimen/logo_margin_right"
+        android:layout_marginBottom="@dimen/logo_margin_bottom" />
+
+    <ImageView
+        android:id="@+id/white_gun_1"
+        android:layout_width="@dimen/logo_width"
+        android:layout_height="@dimen/logo_height"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/logo_margin_top"
+        android:layout_marginLeft="@dimen/logo_margin_left"
+        android:layout_marginRight="@dimen/logo_margin_right"
+        android:layout_marginBottom="@dimen/logo_margin_bottom" />
+
+    <ImageButton
+        android:id="@+id/shoot_btn"
+        android:background="@null"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitXY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true" />
+
+    <ImageView
+        android:id="@+id/shoot_clicked"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitXY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"/>
+
+    <ImageView
+        android:id="@+id/broken_glass"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

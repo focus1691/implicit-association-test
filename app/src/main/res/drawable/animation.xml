@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding ="utf-8" ?>
+<animation-list
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/white_gun1_p1" android:duration="30" />
+    <item android:drawable="@drawable/white_gun1_p2" android:duration="30" />
+
+    <!--
+    <item android:drawable="@drawable/white_gun1_p3" android:duration="30" />
+    <item android:drawable="@drawable/white_gun1_p4" android:duration="30" />
+    <item android:drawable="@drawable/white_gun1_p5" android:duration="30" />
+    <item android:drawable="@drawable/white_gun1_p6" android:duration="30" /> -->
+
+</animation-list>

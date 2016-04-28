@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">IAT</string>
+    <string name="app_name">Unconscious Prejudice Decipherer</string>
+    <string name="race">Race</string>
+    <string name="religion">Religion</string>
 </resources>
