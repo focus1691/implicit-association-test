@@ -3,8 +3,7 @@
 ## Background
 
 This is a different version of the popular [IAT](https://implicit.harvard.edu/implicit/takeatest.html) created by Harvard psychologists.
-This app is used to measure implicit racial attitudes by measuring reaction time in responding to animations of black/white men shooting
-at you.
+This app is used to measure implicit  attitudes by measuring reaction time in responding to animations of African American/European American men shooting at you.
 
 
 ## Instructions
